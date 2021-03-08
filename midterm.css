@@ -1,0 +1,87 @@
+
+body { 
+     background-color:#66ffcc;
+	 color:#000000;
+	 font-family:Verdana;
+	 
+}
+
+header {
+	background-color:#66ffcc;
+	 color:#ffffff;
+	 font-family:Verdana;
+	
+}
+
+nav {
+	font-size:x-large;
+	background-color: #ff99cc;
+	font-family:Helvetica;
+	text-align:center;
+	
+}
+
+
+h2 { 
+	line-height:200%;
+     color:#ffffff;
+	 font-family:Georgia;
+	 
+}
+
+
+.books {
+	color:#000033;
+	font-size:medium;
+	
+	
+}
+
+
+
+.one {
+	background-color: #000000;
+	color:#ffffff;
+
+
+}
+
+.two {
+	background-color: #660099;
+	color:#ffffff;
+}
+
+.three {
+	background-color: #ff9900;
+	color:#ffffff;
+}
+
+
+.four {
+	background-color: #cc0000;
+	color:#ffffff;
+}
+
+
+.five {
+	background-color: #99ffff;
+	color:#ffffff;
+}
+
+
+footer {
+	font-size:0.7em;
+	font-style:italic;
+	text-align:center;
+	
+}
+
+
+
+
+#wrapper {
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+	
+}
